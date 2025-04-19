@@ -33,7 +33,7 @@ Py Contacts is a simple Python application designed to manage and store contacts
      ```
 5. Install the required dependencies:
    ```bash
-   pip install Flask Flask-SQLAlchemy
+   pip install -r requirements.txt
    ```
 
 ## Usage
